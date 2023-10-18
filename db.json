@@ -1,0 +1,22 @@
+{
+  "anime": [
+    {
+      "id": 1,
+      "title": "Атака титанов"
+    },
+    {
+      "id": 2,
+      "title": "Клинок Расикаюший Демонов"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
